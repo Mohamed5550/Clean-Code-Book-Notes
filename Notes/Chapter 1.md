@@ -20,10 +20,10 @@
 
 - Bad code leads to a mess, which leads to less productivity approaching zero
 
-### The grand redisign in the sky
+### The grand redesign in the sky
 
 - Developers will ask managers to redesign the project, but the managers don't want to expend resources in the refactoring process, although, they see the bad productivity. But at last, they decide to refactor
-- The author told a story of the redesigning which the chosen team redesign the project while the other maintain the old one. This process may take 10 year. At last, the current member of the new project are not the ones who started it. Now they want to redesign the new code again because it is a mess.
+- The author told a story of the redesigning which the chosen team redesign the project while the other maintain the old one. This process may take up to 10 year. At last, the current members of the new project are not the ones who started it. Now they want to redesign the new code again because it is a mess.
 - He wants to say spending time in making the code clean is very important
 
 ### Attitude
@@ -35,7 +35,7 @@
 - But the author says it is **our fault**
 - managers and marketers look to us when they want to make promises and commitments; and even if they don't, we shouldn't be shy about telling them what we think
 - Someone may say, if I don't do what the manager says, I will be fired, but the author says propabbly this will not happen; because managers wants truth event if they don't act like it
-- The managers may defent the schedules and the timeline with passion, it is their job. But it is your job to defent the code with equal passion
+- The managers may defend the schedules and the timeline with passion, it is their job. But it is your job to defent the code with equal passion
 
 ### The art of clean code
 
@@ -82,13 +82,13 @@
 - Martial artists don't all agree about the best martial art or best techniques
 - Students learn from one school and when they grow, they may learn from other masters, or found their own schools
 - None of these schools is absolutely right
-- There is a right way to practice a technique, but there is no best technique
+- There is a best way to practice a technique, but there is no best technique
 
 ## We Are Authors
 
 - The next time you read a code remember that you have readers to care about
-- Coding is 10:` reading to writing
-- Because the ratio is so heigt, we need reading to be easy
+- Coding is 10:1 reading to writing
+- Because the ratio is so high, we need reading to be easy
 - make the code easy to read to be easy to write
 
 ## The Boy Scout Rule
