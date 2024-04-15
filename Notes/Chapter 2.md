@@ -82,9 +82,9 @@ if(cell.isFlagged())
 
 ## Make Meaningful Distinctions
 
-- when you name two things with a deffernt prefix or suffix, the addition should mean a different thing
+- when you name two things with a different prefix or suffix, the addition should mean a different thing
   - `customer` is indistinguishable from `theCustomer`
-- Don't Ad unnecessty suffixed
+- Don't Add unnecessary suffixes
   - `nameString` is not better than name. The different is for what? distinguishing it from floats? So it will break another rule of disinformation
   - `table` shouldn't appear in tables, `variable` shouldn't appear in variables and so...
 
@@ -150,8 +150,8 @@ public class Part {
 
 ## Method Names
 
-- method names should start with verb
-- Accessors and mutatos should be names for their value and prefixed with `set`, `get`, and `is`
+- Method names should start with verb
+- Accessors and mutators should be names for their value and prefixed with `set`, `get`, and `is`
 
 ## Don't be cute
 
@@ -160,7 +160,7 @@ public class Part {
 
 ## Use One Word per Concept
 
-- `get`, `retrieve`, and `fetch` shoudn't do the same thing in different classes
+- `get`, `retrieve`, and `fetch` shouldn't do the same thing in different classes
 - When you use a word, don't use any synonym of it in another place
 
 ## Don't pun

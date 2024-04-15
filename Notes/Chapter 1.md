@@ -53,7 +53,7 @@
   - One broken window starts the mess
   - Error handling is important, clean code interests in details
 
-- `Grady Booch: OOA&D`: simple and direct. like a well-written prose
+- `Grady Booch: OOA&D`: simple and direct, like a well-written prose
   - Focuses on readability
 
 - `“Big” Dave Thomas: OTI and eclipse`: can be enhanced by another developer, unit tests, meaningful names, one way to do one thing, minimal dependencies, clear API
@@ -93,7 +93,7 @@
 
 ## The Boy Scout Rule
 
-- It is not enought to write a clean code, you have to keep it clean over time
+- It is not enough to write a clean code, you have to keep it clean over time
 - `Leaave the campground cleaner than you found it`
 - Suggestions about cleaning code
   - Improve a name of a variable
