@@ -113,7 +113,7 @@ throws InvalidEmployeeType {
 
 ## Command query separation
 
-- Funcions should do something, or answer a question, but not both
+- Functions should do something, or answer a question, but not both
 
 ## Prefer exceptions to returning error codes
 
