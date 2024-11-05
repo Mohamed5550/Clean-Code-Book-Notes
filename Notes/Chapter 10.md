@@ -31,3 +31,5 @@
 ## Organizing for Change
 
 - **OCP principle:** classes should be open for extension, closed for modification
+  - This makes the chance of one function to affect the others too small
+- **Isolation from change:** classes should depend on interfaces, not implementation of other classes
